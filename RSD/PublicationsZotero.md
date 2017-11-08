@@ -1,4 +1,4 @@
-# Publications
+# Publications / Software
 
 ## End report
 For most completed projects, a list of publications can be found in the end report:
@@ -22,11 +22,15 @@ In zotero:
 
 To add a publication by DOI:
 * Click `Netherlands eScience Center` in `Group Libraries`.
+* Find your project in `Projects`
 * Click `Add item(s) by Identifier` ![Instruction2](images/step2.png)
 * Enter one or more DOI(s), seperated with a space.
 
-Add publication to project & software:
-* Click publication
-* Click Tags -> Add
-* Find project (starts with `/project/`) & software (`/software/`).
-* Synchronize again
+Add software:
+* Get a DOI for software via [Zenodo](https://zenodo.org/) (very simple for a GitHub repo),
+* Add software to project by its DOI
+
+Link publications and software:
+* Click publication or software
+* Click `Related` -> `Add`
+* Click related software/publication
