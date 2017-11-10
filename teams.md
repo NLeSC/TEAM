@@ -1,4 +1,4 @@
-# RSD Tech Team (Stellarator + overflow into telescope if needed)
+# RSD Tech Team (Stellarator + overflow into Telescope)
 
 Tom Klaver (lead)   
 Laurens Bogaardt  
