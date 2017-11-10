@@ -1,31 +1,33 @@
-# RSD Tech Team
+# RSD Tech Team (Stellarator + overflow into telescope if needed)
 
 Tom Klaver (lead)   
 Laurens Bogaardt  
-Willem van Hage   
 Jisk Attema  
-(+3 more)
+Lars Ridder  
+Bram van Es  
+Willem van Hage   
 
-# Kernel Tuner 
+# Kernel Tuner (Telescope)
 
 Ben van Werkhoven (lead)  
 Alessio Sclocco  
 Hanno Spreeuw  
 Felipe Zapata Ruiz  
 Johan Hiding   
-(+2 more)
+Patrick Bos  
+Nicolas Renaud  
+Inti Pelupessy
 
-# ReGIS 
+# ReGIS (Cloud Chamber + Universal Turing Machine) 
 
 Carlos Martinez Ortiz (lead)  
 Erik Tjong Kim Sang  
 Martine de Vos  
 Rena Bakhshi  
-Elena Ranguelova
 Dafne van Kuppevelt  
-(+1 more)
+Wouter Kouw  
 
-# CWL 
+# CWL (Observatory)
 
 Niels Drost (lead)  
 Lourens Veen  
@@ -34,8 +36,9 @@ Bouwe Andela
 Ronald van Haren  
 Janneke van der Zwaan  
 Arnold Kuzniar  
+Atze van der Ploeg  
 
-# Pointclouds
+# Pointclouds (Library)
 
 Stefan Verhoeven (lead)  
 Romulo Gonçalves  
@@ -44,27 +47,18 @@ Gijs van den Oord
 Sonja Georgievska  
 Faruk Diblen  
 Christiaan Meijer   
+Elena Ranguelova
 
-# RSD Dissemination & Communication 
+# Dissemination & Communication (Microscope)
 
 Lode Kulik (lead)  
 Adrienne Mendrik  
 Tom Bakker  
-Jason Maassen  
-Noura Saidi   
 Vincent van Hees  
+Noura Saidi   
 Jurriaan Spaaks  
-
-# Not assigned yet
-
-Bram van Es  
-Wouter Kouw  
-Patrick Bos  
-Atze van der Ploeg  
-Nicolas Renaud  
-Lars Ridder  
-Inti Pelupessy   
-(did I miss anyone?)   
+Jason Maassen  
+Rob van Nieuwpoort
 
 # Missing in action  
 
