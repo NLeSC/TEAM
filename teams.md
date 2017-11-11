@@ -26,6 +26,7 @@ Martine de Vos
 Rena Bakhshi  
 Dafne van Kuppevelt  
 Wouter Kouw  
+Maarten van Meersbergen  
 
 # CWL (Observatory)
 
@@ -42,7 +43,6 @@ Atze van der Ploeg
 
 Stefan Verhoeven (lead)  
 Romulo Gonçalves  
-Maarten van Meersbergen  
 Gijs van den Oord  
 Sonja Georgievska  
 Faruk Diblen  
